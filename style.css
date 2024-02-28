@@ -60,6 +60,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  
 }
 
 .logo:hover {
@@ -187,6 +188,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+ 
 }
 
 .section__text__p2 {
@@ -429,4 +431,27 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+#border{
+  border: 2px solid black;
+  margin: 10px;
+  box-shadow: 2px 2px 3px gray;
+ 
+
+}
+footer{
+  background-image: url("../Arif_Reza-Portfolio/assets/footer.jpg");
+  background-color: rgba(0,0,0,0.2);
+  border: 2px solid black;
+  margin: 5px;
+  box-shadow: 2px 2px 4px black;
+  background-color:rgba(0,0,0,0.8)
+}
+#image{
+  background-image: url('../Arif_Reza-Portfolio/assets/title1.jpg');
+  height: 100px;
+}
+ #title_front{
+  background-image: url('../Arif_Reza-Portfolio/');
 }
